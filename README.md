@@ -10,6 +10,7 @@ List of Articles:
 
 | Date First Published | Title | Description |
 | :--- | :--- | :--- |
+| 2022-03-05 | [Why I Find Boring Things Interesting](2022-03-05-Why-I-Find-Boring-Things-Interesting.md) | Looking at the mundane can often reveal far more interesting things. |
 | 2022-02-28 | [So Much Data](2022-02-28-So-Much-Data.md) | Thoughts on our ability as individuals and groups to be able to understand and process data. |
 | 2022-02-16 | [Fire](2022-02-16-Fire.md) | The way our understanding evolves with new knowledge. |
 | 2022-01-31 | [Scale](2022-01-31-Scale.md) | How scale can impact how we think about things. |
