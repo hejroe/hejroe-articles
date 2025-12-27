@@ -10,6 +10,11 @@ List of Articles:
 
 | Date First Published | Title | Description |
 | :--- | :--- | :--- |
+| 2022-07-07 | [Water is Wonderful](2022-07-07-Water-is-Wonderful.md) | Words here. |
+| 2022-06-03 | [Camouflage](2022-06-03-Camouflage.md) | Words here. |
+| 2022-05-13 | [Hidden in Plain Sight](2022-05-13-Hidden-in-Plain-Sight.md) | Words here. |
+| 2022-04-22 | [Game Theory](2022-04-22-Game-Theory.md) | Words here. |
+| 2022-04-04 | [Emergent Properties](2022-04-04-Emergent-Properties.md) | Words here. |
 | 2022-03-05 | [Why I Find Boring Things Interesting](2022-03-05-Why-I-Find-Boring-Things-Interesting.md) | Looking at the mundane can often reveal far more interesting things. |
 | 2022-02-28 | [So Much Data](2022-02-28-So-Much-Data.md) | Thoughts on our ability as individuals and groups to be able to understand and process data. |
 | 2022-02-16 | [Fire](2022-02-16-Fire.md) | The way our understanding evolves with new knowledge. |
