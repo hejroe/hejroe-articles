@@ -10,5 +10,7 @@ List of Articles:
 
 | Date First Published | Title | Description |
 | :--- | :--- | :--- |
-| 2021-12-22 | [Life Beyond the Grave](2021-12-22-Life-Beyond-the-Grave.md) | Description of article |
+| 2022-01-31 | [Scale](2022-01-31-Scale.md) | How scale can impact how we think about things |
+| 2022-01-10 | [Data Views](2022-01-10-Data-Views.md) | Using different views/perspectives with data can be quite revealing. | 
+| 2021-12-22 | [Life Beyond the Grave](2021-12-22-Life-Beyond-the-Grave.md) | What happens to our online data when we die and what can this mean for us in the future? |
 
