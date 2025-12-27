@@ -1,0 +1,21 @@
+# Emergent Properties
+ 
+One of the approaches to studying anything is to look for examples in the World that we can work with. This is often described as Connectionism. To take the physical and then examine it and make deductions, experiments and hypotheses to explain what we see. This approach has been used for thousands of years and would appear to be a fundamental aspect of our own intelligence. Us humans are very adept at being able to make associations between things. So much so that often we associate things that are not actually associated.
+
+This approach helped us in all manner of creations. Flight, electricity, chemistry and much more has come about by this technique. But there is an issue with such an approach. One that can be rather devastating to advancing understanding at times. This is the fact that sometimes we only accept one specific view. To be more specific, we consider it a “problem solved” so stop looking for alternatives.
+
+The reason for this likely stems from the additional effort required. After all it would make little sense to invest heavily into costly research that has no certainty of success. And this is a pretty big issue. We can only see what happens by actually doing “something” and observing the results. The results can sometimes provide unexpected properties.
+
+For instance; you have 2 hydrogen atoms and an oxygen atom, stick them together and you have a water molecule. Hydrogen and oxygen are both gases and are both combustible so the result should be a combustible gas right? As we all know this is not the case. We get something quite different instead. The properties of water are unexpected and we can, at this time, only work out what happens by physically doing it.
+
+This is where the symbolic approach comes in handy. This is as the name implies all to do with symbolic representations of things. Mathematics is the heartland of this approach and there is some lovely work that demonstrates emergence wonderfully. Now this is not to suggest that the symbolic approach is a replacement for physical experimentation, only that the two complement each other.
+
+It is hard for me not to start with the work of John Conway with his “Game of Life”. An amazingly simple concept that offered some very interesting results. Although Conway was not initially a fan of this work it is beyond doubt that it inspired others. As people explored the “Game of Life” other interesting features and behaviours began to appear. It was soon apparent that these simple rules could then be combined with each other. In short order logic gates and arithmetic arrays were emulated.
+
+This work paved the way for the likes of Stephen Wolfram and Matthew Cook to also consider what other secrets simple systems may hold. This work gave us “Rule 110”. A fascinating and yet simple system that initially offers very little. But it soon develops into a pattern and then more besides. Hidden in this simple system is something quite remarkable, the simplest known Turing complete system.
+
+Life by its very nature seems to come from the complexity that these simple systems demand. Things like eyes, senses and nervous systems are created from what we consider completely separate branches of life. What are the underlying rules that give rise to such unexpected and often useful complexity?
+
+Already we are seeing surprising results with the AI that we have at our disposal. The GPT-3, GPT-J and similar projects all offer similar results. In these linguistic systems we see very human like text being generated. More surprisingly is that the models generated can also be applied to other domains of creativity such as art or music. Although the results are not always that great every now and then you see one and think “now that is good”.
+
+The most striking thing for me is that in both of these realms, the “real” and symbolic, we see emergence from very simple systems. As we get better at increasing the complexity of the systems that we build is likely to offer better results. I do consider it essential that such complexity is derived from simple systems, rules and behaviours. The reason for this is simply based on the numerous examples that we seem to have in the natural World.
