@@ -10,7 +10,9 @@ List of Articles:
 
 | Date First Published | Title | Description |
 | :--- | :--- | :--- |
-| 2022-01-31 | [Scale](2022-01-31-Scale.md) | How scale can impact how we think about things |
+| 2022-02-28 | [So Much Data](2022-02-28-So-Much-Data.md) | Thoughts on our ability as individuals and groups to be able to understand and process data. |
+| 2022-02-16 | [Fire](2022-02-16-Fire.md) | The way our understanding evolves with new knowledge. |
+| 2022-01-31 | [Scale](2022-01-31-Scale.md) | How scale can impact how we think about things. |
 | 2022-01-10 | [Data Views](2022-01-10-Data-Views.md) | Using different views/perspectives with data can be quite revealing. | 
 | 2021-12-22 | [Life Beyond the Grave](2021-12-22-Life-Beyond-the-Grave.md) | What happens to our online data when we die and what can this mean for us in the future? |
 
