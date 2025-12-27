@@ -9,4 +9,6 @@ Each of the articles looks to tackle a particular topic as I followed a path int
 List of Articles:
 
 | Date First Published | Title | Description |
+| :--- | :--- | :--- |
+| 2021-12-22 | [Life Beyond the Grave] (2021-12-22-Life-Beyond-the-Grave.md) | Description of article |
 
