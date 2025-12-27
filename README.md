@@ -10,5 +10,5 @@ List of Articles:
 
 | Date First Published | Title | Description |
 | :--- | :--- | :--- |
-| 2021-12-22 | [Life Beyond the Grave] (2021-12-22-Life-Beyond-the-Grave.md) | Description of article |
+| 2021-12-22 | [Life Beyond the Grave](2021-12-22-Life-Beyond-the-Grave.md) | Description of article |
 
