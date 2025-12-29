@@ -1,6 +1,6 @@
 # Pick a Number
 
-Choose a number between 1 and 10. It was 7, right? OK so perhaps not for everyone. Maybe it was 5 or 3 instead. Generally, it would seem that there is a preference for the number 7. At least for those with a shared culture and experience. Now imagine if you will a hall with 100 people in it.
+Choose a number between 1 and 10. It was 7, right? OK so perhaps not for everyone. Maybe it was 5 or 3 instead. Generally, it would seem that there is a preference for the number 7. At least for those with a shared culture and experience.
 
 Now imagine if you will a hall with 100 people in it. They all have a mobile/tablet device. All are asked to visit a website and select their preference for a number between 1 and 10. They all respond, and you will likely see a distribution similar to this: 
 
