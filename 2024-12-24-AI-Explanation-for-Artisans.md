@@ -32,8 +32,8 @@ These AI models are so good that some even claim that it is sentient. This is no
 
 The LLM we are going to describe is going to be a very simplified version of the far larger models. In fact, it is so simple that it is described in full in the following table:
 
-|   |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|---|---|
 | | 1 |	2	| 3	| 4	| 5	| 6 | 7	| 8	| 9 |	10 |
 | 1 |	2 |	3 |	4 |	5 |	6 |	7 |	8 |	9 |	10 |	11 |
 | 2	| 3	| 4	| 5 |	6 |	7 |	8 |	9 |	10 | 11 |	12 |
