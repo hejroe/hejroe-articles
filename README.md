@@ -10,6 +10,26 @@ List of Articles:
 
 | Date First Published | Title | Description |
 | :--- | :--- | :--- |
+| 2024-05-19 | [AI Will Kill Advertising](2024-05-19-AI-Will-Kill-Advertising.md) | Words here. |
+| 2024-04-27 | [An Uncomfortable Truth](2024-04-27-An-Uncomfortable-Truth.md) | Words here. |
+| 2024-03-31 | [Pairs and More](2024-03-31-Pairs-and-More.md) | Words here. |
+| 2024-03-12 | [Not All Data Is Equal](2024-03-12-Not-All-Data-Is-Equal.md) | Words here. |
+| 2024-03-09 | [Analysts vs. Programmers, is there a difference?](2024-03-09-Analysts-vs-Programmers-is-there-a-difference.md) | Words here. |
+| 2024-01-12 | [2024-Looking-Ahead](2024-01-12-2024-Looking-Ahead.md) | Words here. |
+| 2023-12-07 | [The Great LLM Detection Tools Rip off](2023-12-07-The-Great-LLM-Detection-Tools-Rip-off.md) | Words here. |
+| 2023-11-27 | [Learn Everything about Computing in One Easy Lesson](2023-11-27-Learn-Everything-about-Computing-in-One-Easy-Lesson.md) | Words here. |
+| 2023-10-31 | [Marvellous and Mysterious Memories](2023-10-31-Marvellous-and-Mysterious-Memories.md) | Words here. |
+| 2023-10-09 | [Dangerous AI](2023-10-09-Dangerous-AI.md) | Words here. |
+| 2023-09-13 | [Creative AI Critique](2023-09-13-Creative-AI-Critique.md) | Words here. |
+| 2023-07-18 | [Pick a Number](2023-07-18-Pick-a-Number.md) | Words here. |
+| 2023-06-24 | [Peak Entertainment](2023-06-24-Peak-Entertainment.md) | Words here. |
+| 2023-06-02 | [The AI Wake Up Call](2023-06-02-The-AI-Wake-Up-Call.md) | Words here. |
+| 2023-05-13 | [Living in the Technological Singularity](2023-05-13-Living-in-the-Technological-Singularity.md) | Words here. |
+| 2023-04-26 | [Large Language Models are a Mirror](2023-04-26-Large-Language-Models-are-a-Mirror.md) | Words here. |
+| 2023-03-28 | [Determining the Truth in a Deluge of Data](2023-03-28-Determining-the-Truth-in-a-Deluge-of-Data.md) | Words here. |
+| 2023-02-24 | [Nobody is Right](2023-02-24-Nobody-is-Right.md) | Words here. |
+| 2023-01-25 | [Knowing Things](2023-01-25-Knowing-Things.md) | Words here. |
+| 2022-12-19 | [AI is Coming for your Job](2022-12-19-AI-is-Coming-for-your-Job.md) | Words here. |
 | 2022-11-16 | [Dates and Times](Dates-and-Times.md) | Words here. |
 | 2022-07-07 | [Water is Wonderful](2022-07-07-Water-is-Wonderful.md) | Words here. |
 | 2022-06-03 | [Camouflage](2022-06-03-Camouflage.md) | Words here. |
