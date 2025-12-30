@@ -10,6 +10,7 @@ List of Articles:
 
 | Date First Published | Title | Description |
 | :--- | :--- | :--- |
+| 2022-11-16 | [Dates and Times](Dates-and-Times.md) | Words here. |
 | 2022-07-07 | [Water is Wonderful](2022-07-07-Water-is-Wonderful.md) | Words here. |
 | 2022-06-03 | [Camouflage](2022-06-03-Camouflage.md) | Words here. |
 | 2022-05-13 | [Hidden in Plain Sight](2022-05-13-Hidden-in-Plain-Sight.md) | Words here. |
