@@ -10,7 +10,16 @@ List of Articles:
 
 | Date First Published | Title | Description |
 | :--- | :--- | :--- |
-| 2024-11-04 | [AI Strategy for SMEs for 2025](2024-11-04-AI Strategy-for-SMEs-for-2025.md) | Words here. |
+| 2025-12-30 | [2025 - A Year of AI in Review](2025-12-30-2025-A-Year-of-AI-in-Review.md) | Words here. |
+| 2025-12-30 | [Your Best Friend Ever](2025-12-30-Your-Best-Friend-Ever.md) | Words here. |
+| 2025-09-13 | [DANGER: AI Art](2025-09-13-DANGER-AI-Art.md) | Words here. |
+| 2025-07-14 | [The AI Recruitment Crisis](2025-07-14-The-AI-Recruitment-Crisis.md) | Words here. |
+| 2025-05-22 | [AI Paralysis](2025-05-22-AI-Paralysis.md) | Words here. |
+| 2025-04-14 | [The AI Wars](2025-04-14-The-AI-Wars.md) | Words here. |
+| 2025-02-03 | [All About AI Agents](2025-02-03-All-About-AI-Agents.md) | Words here. |
+| 2025-01-01 | [2025 - The Year Ahead](2025-01-01-2025-The-Year-Ahead.md) | Words here. |
+| 2024-12-24 | [AI Explanation for Artisans](2024-12-24-AI-Explanation-for-Artisans.md) | Words here. |
+| 2024-11-04 | [AI Strategy for SMEs for 2025](2024-11-04-AI-Strategy-for-SMEs-for-2025.md) | Words here. |
 | 2024-10-16 | [The Ad-pocalypse](2024-10-16-The-Ad-pocalypse.md) | Words here. |
 | 2024-07-19 | [The Question of Questions](2024-07-19-The-Question-of-Questions.md) | Words here. |
 | 2024-06-25 | [AI DOOMSDAY IS UPON US!](2024-06-25-AI-DOOMSDAY-IS-UPON-US.md) | Words here. |
