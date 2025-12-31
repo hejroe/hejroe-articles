@@ -10,6 +10,11 @@ List of Articles:
 
 | Date First Published | Title | Description |
 | :--- | :--- | :--- |
+| 2024-11-04 | [AI Strategy for SMEs for 2025](2024-11-04-AI Strategy-for-SMEs-for-2025.md) | Words here. |
+| 2024-10-16 | [The Ad-pocalypse](2024-10-16-The-Ad-pocalypse.md) | Words here. |
+| 2024-07-19 | [The Question of Questions](2024-07-19-The-Question-of-Questions.md) | Words here. |
+| 2024-06-25 | [AI DOOMSDAY IS UPON US!](2024-06-25-AI-DOOMSDAY-IS-UPON-US.md) | Words here. |
+| 2024-06-05 | [Prompt Engineering The New Alchemy](2024-06-05-Prompt-Engineering-The-New-Alchemy.md) | Words here. |
 | 2024-05-19 | [AI Will Kill Advertising](2024-05-19-AI-Will-Kill-Advertising.md) | Words here. |
 | 2024-04-27 | [An Uncomfortable Truth](2024-04-27-An-Uncomfortable-Truth.md) | Words here. |
 | 2024-03-31 | [Pairs and More](2024-03-31-Pairs-and-More.md) | Words here. |
