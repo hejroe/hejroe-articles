@@ -25,20 +25,20 @@ List of Articles:
 | 2024-06-25 | [AI DOOMSDAY IS UPON US!](2024-06-25-AI-DOOMSDAY-IS-UPON-US.md) | The "AI Doom" narrative is a distraction. The real crisis is the "Human Alignment Problem"—our inability to agree on goals. Can AI actually solve the mess we made? |
 | 2024-06-05 | [Prompt Engineering The New Alchemy](2024-06-05-Prompt-Engineering-The-New-Alchemy.md) | Is "Prompt Engineering" a real career or a temporary fix for shifting model foundations? The power, limits, and likely future of the AI prompt. |
 | 2024-05-19 | [AI Will Kill Advertising](2024-05-19-AI-Will-Kill-Advertising.md) | Why watch ads when your AI agent can strip them out first? How local compute and AR glasses will render the traditional ad-model obsolete by filtering reality before you see it. |
-| 2024-04-27 | [An Uncomfortable Truth](2024-04-27-An-Uncomfortable-Truth.md) | Words here. |
-| 2024-03-31 | [Pairs and More](2024-03-31-Pairs-and-More.md) | Words here. |
-| 2024-03-12 | [Not All Data Is Equal](2024-03-12-Not-All-Data-Is-Equal.md) | Words here. |
-| 2024-03-09 | [Analysts vs. Programmers, is there a difference?](2024-03-09-Analysts-vs-Programmers-is-there-a-difference.md) | Words here. |
-| 2024-01-12 | [2024-Looking-Ahead](2024-01-12-2024-Looking-Ahead.md) | Words here. |
-| 2023-12-07 | [The Great LLM Detection Tools Rip off](2023-12-07-The-Great-LLM-Detection-Tools-Rip-off.md) | Words here. |
-| 2023-11-27 | [Learn Everything about Computing in One Easy Lesson](2023-11-27-Learn-Everything-about-Computing-in-One-Easy-Lesson.md) | Words here. |
-| 2023-10-31 | [Marvellous and Mysterious Memories](2023-10-31-Marvellous-and-Mysterious-Memories.md) | Words here. |
-| 2023-10-09 | [Dangerous AI](2023-10-09-Dangerous-AI.md) | Words here. |
-| 2023-09-13 | [Creative AI Critique](2023-09-13-Creative-AI-Critique.md) | Words here. |
-| 2023-07-18 | [Pick a Number](2023-07-18-Pick-a-Number.md) | Words here. |
-| 2023-06-24 | [Peak Entertainment](2023-06-24-Peak-Entertainment.md) | Words here. |
-| 2023-06-02 | [The AI Wake Up Call](2023-06-02-The-AI-Wake-Up-Call.md) | Words here. |
-| 2023-05-13 | [Living in the Technological Singularity](2023-05-13-Living-in-the-Technological-Singularity.md) | Words here. |
+| 2024-04-27 | [An Uncomfortable Truth](2024-04-27-An-Uncomfortable-Truth.md) | Maximizing ROI through automation creates a fatal paradox: you reduce costs by eliminating the workforce, but you also eliminate the consumer. Why the drive for efficiency might break the system and the uncomfortable truths we must face to fix it. |
+| 2024-03-31 | [Pairs and More](2024-03-31-Pairs-and-More.md) | Why do we have two eyes but only one heart? From the biological cost of redundancy to the limits of perception, exploring why nature favors pairs and how we are evolving beyond them. |
+| 2024-03-12 | [Not All Data Is Equal](2024-03-12-Not-All-Data-Is-Equal.md) | Storing everything forever is a physical impossibility. From the lossy compression of human memory to the hidden biases in LLM training data, why the value of information is the only metric that matters. |
+| 2024-03-09 | [Analysts vs. Programmers, is there a difference?](2024-03-09-Analysts-vs-Programmers-is-there-a-difference.md) | An analyst explores patterns to predict the future; a programmer builds the solution. Why the "geek" stereotype is misleading and how to spot the rare unicorn who can do both. |
+| 2024-01-12 | [2024-Looking-Ahead](2024-01-12-2024-Looking-Ahead.md) | From the death of truth in media to the rise of virtual partners, 2024 will be tumultuous. Why the hype is real, the legal battles are just starting, and how to navigate the Golden Age of AI. |
+| 2023-12-07 | [The Great LLM Detection Tools Rip off](2023-12-07-The-Great-LLM-Detection-Tools-Rip-off.md) | Can AI detectors really tell if a human wrote that code? A simple "Hello World" test reveals identical outputs from major models, proving these tools are just guessing. Why the industry is selling snake oil and why the technology is a fallacy. |
+| 2023-11-27 | [Learn Everything about Computing in One Easy Lesson](2023-11-27-Learn-Everything-about-Computing-in-One-Easy-Lesson.md) | Every pixel, game, and AI algorithm relies on the same humble foundation. How the simple on/off switch creates the infinite complexity of the digital world, mirroring the building blocks of the universe. |
+| 2023-10-31 | [Marvellous and Mysterious Memories](2023-10-31-Marvellous-and-Mysterious-Memories.md) | Is memory merely a record of approximate state? From the involuntary twitch of a sleeping runner to the multi-generational migration of Monarch butterflies, exploring where memory lives and the mysterious biological mechanisms behind it. |
+| 2023-10-09 | [Dangerous AI](2023-10-09-Dangerous-AI.md) | Forget the sci-fi doomsday scenarios. The real danger isn't Super AI replacing us, but primitive systems already destabilizing governments and war. Why accelerating towards Super intelligence might actually be our safest bet. |
+| 2023-09-13 | [Creative AI Critique](2023-09-13-Creative-AI-Critique.md) | Predicting the next word is not the same as understanding a concept. Why we might be mistaking emulation for intelligence, the dangers of stopping the search for better solutions, and a future where everyone is an instant artist. |
+| 2023-07-18 | [Pick a Number](2023-07-18-Pick-a-Number.md) | Why do we pick 7? How privacy, cultural bias, and the flow of information fundamentally alter human decision-making, proving that even a simple choice is rarely random. |
+| 2023-06-24 | [Peak Entertainment](2023-06-24-Peak-Entertainment.md) | Could you watch every possible game of chess in your lifetime? The math suggests no, but AI says yes. We are approaching "Peak Entertainment"—an era where infinite, unique content, from rap battles to mashups, is generated on demand. |
+| 2023-06-02 | [The AI Wake Up Call](2023-06-02-The-AI-Wake-Up-Call.md) | Lazy thinking and outdated definitions won't stop the AI revolution. Why the critics are wrong, the benefits are too great to ignore, and why the future belongs to those who can ask the right questions. |
+| 2023-05-13 | [Living in the Technological Singularity](2023-05-13-Living-in-the-Technological-Singularity.md) | The Technological Singularity isn't a future event—it's happening right now. Just like the Industrial Revolution, it's a slow boil that's easy to miss. Why the accelerating pace of AI is terrifying but ultimately our best hope against a hostile universe. |
 | 2023-04-26 | [Large Language Models are a Mirror](2023-04-26-Large-Language-Models-are-a-Mirror.md) | Words here. |
 | 2023-03-28 | [Determining the Truth in a Deluge of Data](2023-03-28-Determining-the-Truth-in-a-Deluge-of-Data.md) | Words here. |
 | 2023-02-24 | [Nobody is Right](2023-02-24-Nobody-is-Right.md) | Words here. |
