@@ -1,4 +1,4 @@
-Knowing Things
+# Knowing Things
 
 Now I would forgive you for thinking that knowing things is pretty easy. You just know some stuff right? Let me see if I can change your mind on this, if you should hold such thoughts.
 
