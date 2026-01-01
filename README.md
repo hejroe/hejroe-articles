@@ -40,17 +40,17 @@ List of Articles:
 | 2023-06-24 | [Peak Entertainment](2023-06-24-Peak-Entertainment.md) | Could you watch every possible game of chess in your lifetime? The math suggests no, but AI says yes. We are approaching "Peak Entertainment"—an era where infinite, unique content, from rap battles to mashups, is generated on demand. |
 | 2023-06-02 | [The AI Wake Up Call](2023-06-02-The-AI-Wake-Up-Call.md) | Lazy thinking and outdated definitions won't stop the AI revolution. Why the critics are wrong, the benefits are too great to ignore, and why the future belongs to those who can ask the right questions. |
 | 2023-05-13 | [Living in the Technological Singularity](2023-05-13-Living-in-the-Technological-Singularity.md) | The Technological Singularity isn't a future event—it's happening right now. Just like the Industrial Revolution, it's a slow boil that's easy to miss. Why the accelerating pace of AI is terrifying but ultimately our best hope against a hostile universe. |
-| 2023-04-26 | [Large Language Models are a Mirror](2023-04-26-Large-Language-Models-are-a-Mirror.md) | Words here. |
-| 2023-03-28 | [Determining the Truth in a Deluge of Data](2023-03-28-Determining-the-Truth-in-a-Deluge-of-Data.md) | Words here. |
-| 2023-02-24 | [Nobody is Right](2023-02-24-Nobody-is-Right.md) | Words here. |
-| 2023-01-25 | [Knowing Things](2023-01-25-Knowing-Things.md) | Words here. |
-| 2022-12-19 | [AI is Coming for your Job](2022-12-19-AI-is-Coming-for-your-Job.md) | Words here. |
-| 2022-11-16 | [Dates and Times](Dates-and-Times.md) | Words here. |
+| 2023-04-26 | [Large Language Models are a Mirror](2023-04-26-Large-Language-Models-are-a-Mirror.md) | An LLM doesn't "know" what a rock feels like; it just predicts the next word. Why these models are a mirror reflecting human knowledge—flaws and all—and why the "illusion of knowledge" is the real danger we face. |
+| 2023-03-28 | [Determining the Truth in a Deluge of Data](2023-03-28-Determining-the-Truth-in-a-Deluge-of-Data.md) | Truth is not binary. From optical illusions to the modern data deluge, our perception is flawed. Why the era of lying by overwhelming volume is ending and how we must learn to determine our own truth in a world of infinite information. |
+| 2023-02-24 | [Nobody is Right](2023-02-24-Nobody-is-Right.md) | We used to think the world was made of four elements. Then atoms. Then quarks. Why the history of physics proves that nobody is ever truly right, just incrementally less wrong. |
+| 2023-01-25 | [Knowing Things](2023-01-25-Knowing-Things.md) | You never see the Sun as it is "now"; you see it as it was 8 minutes ago. Why every fact we hold is technically imperfect, how we use wrong answers to build reality, and the challenge of recognising true artificial intelligence. |
+| 2022-12-19 | [AI is Coming for your Job](2022-12-19-AI-is-Coming-for-your-Job.md) | AI can already beat us at chess and handle our daily interactions with ease. Why I hope AI comes for your job—and how automation might be the key to unlocking a better version of humanity. |
+| 2022-11-16 | [Dates and Times](2022-11-16-Dates-and-Times.md) | From the simple binary of day and night to the nightmare of milliseconds and epochs. Why dates are the hardest problem in computing, how bad formats cost you money, and why you should just stick to UTC. |
 | 2022-07-07 | [Water is Wonderful](2022-07-07-Water-is-Wonderful.md) | Why does the combination of two gases create a liquid? A look at the strange properties of water and their surprising link to artificial intelligence. |
-| 2022-06-03 | [Camouflage](2022-06-03-Camouflage.md) | Words here. |
-| 2022-05-13 | [Hidden in Plain Sight](2022-05-13-Hidden-in-Plain-Sight.md) | Words here. |
-| 2022-04-22 | [Game Theory](2022-04-22-Game-Theory.md) | Words here. |
-| 2022-04-04 | [Emergent Properties](2022-04-04-Emergent-Properties.md) | Words here. |
+| 2022-06-03 | [Camouflage](2022-06-03-Camouflage.md) | Camouflage is more than just blending in; it's a spectrum of deception strategies. From the chemical shifts of chameleons to the light-bending of octopuses, why our limited experience blinds us to the things we fail to perceive. |
+| 2022-05-13 | [Hidden in Plain Sight](2022-05-13-Hidden-in-Plain-Sight.md) | We discovered new salivary glands in 2020 and new sorting algorithms in 2002. Why are basic truths still hidden in plain sight? Science isn't running out of mysteries—in fact, there is more to discover now than at any point in history. |
+| 2022-04-22 | [Game Theory](2022-04-22-Game-Theory.md) | Disagreeable players turn Monopoly into a hierarchy of masters and slaves, while agreeable ones might just skip the game entirely. Why Game Theory struggles with irrational humans and how "forgetfulness" could be the secret to building safe AI. |
+| 2022-04-04 | [Emergent Properties](2022-04-04-Emergent-Properties.md) | Mix hydrogen and oxygen and you get water—a property neither possesses alone. From the Game of Life to GPT-3, exploring why simple rules often spawn the most complex and unexpected reality. |
 | 2022-03-05 | [Why I Find Boring Things Interesting](2022-03-05-Why-I-Find-Boring-Things-Interesting.md) | Looking at the mundane can often reveal far more interesting things. |
 | 2022-02-28 | [So Much Data](2022-02-28-So-Much-Data.md) | Thoughts on our ability as individuals and groups to be able to understand and process data. |
 | 2022-02-16 | [Fire](2022-02-16-Fire.md) | The way our understanding evolves with new knowledge. |
