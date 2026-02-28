@@ -10,6 +10,7 @@ List of Articles:
 
 | Date First Published | Title | Description |
 | :--- | :--- | :--- |
+| 2026-02-28 | [AI Skills Hub Disaster](2026-02-28-AI-Skills-Hub-Disaster.md) | A shocking failure that undermines confidence in the UK approach to AI education. |
 | 2026-01-31 | [Build It Now](2026-01-31-Build-It-Now.md) | Something is stirring in the "Ideas Graveyard". |
 | 2026-01-01 | [Looking Ahead for 2026](2026-01-01-Looking-Ahead-for-2026.md) | 2026 will be the year we have to work out who to trust. |
 | 2025-12-30 | [2025 - A Year of AI in Review](2025-12-30-2025-A-Year-of-AI-in-Review.md) | I expected to be wrong this year, but I wasn't. A look at why the "AI wars" are just noise and why I had no humble pie to eat in 2025. |
